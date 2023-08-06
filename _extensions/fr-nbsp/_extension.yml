@@ -1,0 +1,6 @@
+title: "French no-break spaces"
+author: "Romain Lesur"
+version: 1.0.0
+contributes:
+  filters:
+    - fr-nbsp.lua

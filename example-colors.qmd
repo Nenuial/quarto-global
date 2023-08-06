@@ -1,0 +1,14 @@
+---
+title: "Color example"
+filters:
+  - colors
+colors:
+  cerulean: "#10b3d3"
+bg-colors:
+  bg-grey: "#CCCCCC"
+format: pdf
+---
+
+## Heading
+
+This filter adds [**color** formatting]{.bg-grey .cerulean} to text.
